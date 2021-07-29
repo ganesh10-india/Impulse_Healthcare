@@ -1,4 +1,4 @@
-pipabsl-py==0.7.0
+pip install absl-py
 appdirs==1.4.3
 astor==0.8.1
 attrs==19.3.0
